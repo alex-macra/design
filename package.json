@@ -1,0 +1,12 @@
+{
+  "name": "accesa-design",
+  "version": "0.1.0",
+  "description": "designs from the accesa design system",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexandrumacra/design"
+  },
+  "author": "alex macra",
+  "license": "OSL-3.0"
+}
