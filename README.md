@@ -1,6 +1,6 @@
 # Accesa Design
 
-<img align="center" alt="accesa design system logo" src="https://cdn.rawgit.com/alex-macra/accesa-design-system/dev/styleguide/img/logo.png" width="100">
+<img align="center" alt="accesa design system logo" src="https://raw.githubusercontent.com/alex-macra/design/master/img/example.png" width="500">
 
 
 ## What is it?
