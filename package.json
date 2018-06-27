@@ -1,7 +1,7 @@
 {
-  "name": "accesa-design",
-  "version": "0.3.0",
-  "description": "designs from the accesa design system",
+  "name": "accesa-design-sources",
+  "version": "0.3.2",
+  "description": "designs sources from the accesa design system",
   "main": "",
   "repository": {
     "type": "git",

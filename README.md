@@ -1,11 +1,8 @@
-# Accesa Design
-
-<img align="center" alt="accesa design system logo" src="https://cdn.rawgit.com/alex-macra/accesa-design-system/dev/styleguide/img/logo.png" width="100">
-
+# ACCESA DESIGN SOURCES
 
 ## What is it?
 
-//todo
+<img align="center" alt="accesa design system logo" src="https://raw.githubusercontent.com/alex-macra/design/master/img/example.png" width="700">
 
 
 ## Getting Started
