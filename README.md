@@ -1,11 +1,8 @@
-# Accesa Design
-
-<img align="center" alt="accesa design system logo" src="https://raw.githubusercontent.com/alex-macra/design/master/img/example.png" width="500">
-
+# ACCESA DESIGN SOURCES
 
 ## What is it?
 
-//todo
+<img align="center" alt="accesa design system logo" src="https://raw.githubusercontent.com/alex-macra/design/master/img/example.png" width="700">
 
 
 ## Getting Started
